@@ -2,7 +2,7 @@
 - 👀 I’m interested in Investments and Bisness
 - 🌱 I’m currently learning asset tokenization and general Blockchain knowldge
 - 💞️ I’m looking to collaborate on democratization of real estate trough real estate crowdfunding and tokenization of assets with high added value
-- 📫 How to reach me: in Twitter @GustavoMastrog1, Linkedin @Gustavo Mastrogiovanni
+- 📫 How to reach me: Twitter @GustavoMastrog1, Linkedin @Gustavo Mastrogiovanni
 
 <!---
 GMastrogiovanni/GMastrogiovanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
